@@ -126,3 +126,4 @@ if __name__ == "__main__":
   manager.mark_task_completed(1)
   manager.list_tasks()  #[cite: 1]
 
+print("Finished")
